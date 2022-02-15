@@ -1,2 +1,2 @@
-Programacio en java.
+Programacio en Java.
 
