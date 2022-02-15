@@ -1,2 +1,2 @@
 Programacio en java.
-archivo de bucles for
+Archivo de bucles for
