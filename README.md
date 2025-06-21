@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 | [FoodTech Landing](https://github.com/tu-usuario/foodtech-landing) | HTML, Tailwind, JS | [Ver demo](https://foodtech-startup.netlify.app) | [Código](https://github.com/tu-usuario/foodtech-landing) |
 | [AI SaaS Platform](https://github.com/tu-usuario/ai-saas) | React, Node.js, MongoDB | [Ver demo](https://ai-saas.netlify.app) | [Código](https://github.com/tu-usuario/ai-saas) |
 
+## 💼 Portafolio
+[sanlaunch.com](https://sanlaunch.com/)
+
 ---
 
 ## 🛠 Tecnologías que domino y estoy aprendiendo
@@ -57,9 +60,6 @@ Here are some ideas to get you started:
 - Siempre aprendiendo nuevas tecnologías y mejores prácticas.
 - Busco colaborar en proyectos innovadores y de alto impacto.
 
-# 💼 Portafolio
-
-[sanlaunch.com](https://sanlaunch.com/)
 ---
 
 ## 📫 Contacto
