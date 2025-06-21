@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 
 ## 🛠 Tecnologías que domino y estoy aprendiendo
 
-- **Frontend:**  
+- **Frontend:**
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4%3Fstyle%3Dflat%26logo%3Dtailwind-css%26logoColor%3Dwhite)
   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
