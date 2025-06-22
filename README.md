@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hola, soy Santiago
+# 👋 Hola, soy Santiago Icasuriaga
 
 ![504197853_17842109802518128_3679362196669186140_n](https://github.com/user-attachments/assets/eabf3c67-67b1-4036-9e50-5e1eaefa60b8)
 
