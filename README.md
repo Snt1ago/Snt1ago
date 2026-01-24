@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 👋 Hola, soy Santiago Icasuriaga
 
 **Desarrollador Web Front-End | Apasionado por la tecnología y la innovación**
-
+#OpenToWork
 ---
 
 🚀 **Proyectos Destacados (Startups)**
