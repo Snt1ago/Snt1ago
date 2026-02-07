@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 # 👋 Hola, soy Santiago Icasuriaga
 
 **Desarrollador Web Front-End | Apasionado por la tecnología y la innovación**
-#OpenToWork
 ---
 
-🚀 **Proyectos Destacados (Startups)**
+🚀 **Proyectos Destacados**
 
 | Proyecto | Tecnologías | Demo | Repositorio |
 |----------|-------------|------|-------------|
@@ -31,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠 Tecnologías que domino y estoy aprendiendo
+## 🛠 Herramientas utilizadas
 
 - **Frontend:**
   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -43,8 +42,8 @@ Here are some ideas to get you started:
 
 ## 🌱 Sobre mí
 
-- Actualmente me encuentro desarrollando aplicaciones web de alto rendimiento y SEO para mayor conversion.
-- Me encanta transformar ideas en productos digitales.
+- Actualmente me encuentro desarrollando aplicaciones web con impacto en el mercado actual.
+- Me encanta validar y transformar ideas en productos digitales.
 - Siempre aprendiendo nuevas tecnologías y mejores prácticas.
 - Busco colaborar en proyectos innovadores y de alto impacto.
 
@@ -53,7 +52,6 @@ Here are some ideas to get you started:
 ## 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/nicolas-rodriguez-762360325/)
-- [Workana](URL perfil)
 
 ---
 
