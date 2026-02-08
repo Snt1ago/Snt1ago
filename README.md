@@ -7,7 +7,7 @@
 
 | Proyecto | Tecnologías | Demo | Repositorio |
 |----------|-------------|------|-------------|
-| [E-commerce](URL en produccion) | React.js, Nex.js, Tailwind CSS | [Ver demo](URL en produccion) | [Código](URL de GitHub) |
+| [E-commerce](https://github.com/Snt1ago/E-commerce) | React.js, Nex.js, Tailwind CSS |
 
 ## 💼 Portafolio
 [sanlaunch.com](https://sanlaunch.com/)
