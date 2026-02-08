@@ -1,18 +1,3 @@
-<!--
-**Snt1ago/Snt1ago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hola, soy Santiago Icasuriaga
 
 **Desarrollador Web Front-End | Apasionado por la tecnología y la innovación**
@@ -22,8 +7,7 @@ Here are some ideas to get you started:
 
 | Proyecto | Tecnologías | Demo | Repositorio |
 |----------|-------------|------|-------------|
-| [Proyecto React](URL en produccion) | React.js, Tailwind CSS | [Ver demo](URL en produccion) | [Código](URL de GitHub) |
-| [Proyecto Next.js](URL en produccion) | Next.js, Tailwind CSS | [Ver demo](URL en produccion) | [Código](URL de GitHub) |
+| [E-commerce](URL en produccion) | React.js, Nex.js, Tailwind CSS | [Ver demo](URL en produccion) | [Código](URL de GitHub) |
 
 ## 💼 Portafolio
 [sanlaunch.com](https://sanlaunch.com/)
@@ -40,19 +24,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌱 Sobre mí
-
-- Actualmente me encuentro desarrollando aplicaciones web con impacto en el mercado actual.
-- Me encanta validar y transformar ideas en productos digitales.
-- Siempre aprendiendo nuevas tecnologías y mejores prácticas.
-- Busco colaborar en proyectos innovadores y de alto impacto.
-
----
-
 ## 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/nicolas-rodriguez-762360325/)
-
----
-
-¡Gracias por visitar mi perfil! Si tienes una idea o proyecto, no dudes en contactarme. 🚀
+- [Email](icasuriagadeveloper@gmail.com)
