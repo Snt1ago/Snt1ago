@@ -5,7 +5,7 @@
 
 🚀 **Proyectos Destacados**
 
-| Proyecto | Tecnologías |
+| Proyectos | Tecnologías |
 |----------|-------------|
 | [E-commerce](https://github.com/Snt1ago/E-commerce) | React.js, Nex.js, Tailwind CSS |
 
